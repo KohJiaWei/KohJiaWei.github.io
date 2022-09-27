@@ -24,7 +24,7 @@ body{
 
     --container--width-lg: 75%;
     --container--width-md: 86%;
-    --container--width-ms: 90%;
+    --container--width-sm: 90%;
 }
 
 /* ======================== GENERAL STYLES ======================= */
@@ -54,6 +54,7 @@ h1{
 
 section{
     margin-top: 8rem;
+    
 }
 
 section > h2, section > h5{
@@ -135,7 +136,8 @@ html{
 /* ======================== MEDIA QUERIES  (SMALL DEVICES) ======================= */
 @media screen and (max-width: 600px){
     .container{
-        width: var(--container--width-sm)
+        width: var(--container--width-sm);
+        
     }
 
     section > h2{
