@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KohJiaWei.github.io/static/css/main.df6bbd3e.css",
+    "main.js": "/KohJiaWei.github.io/static/js/main.42709eec.js",
+    "static/media/itsME.jpg": "/KohJiaWei.github.io/static/media/itsME.10391a3412b12ec44579.jpg",
+    "static/media/forkbomb.png": "/KohJiaWei.github.io/static/media/forkbomb.81bbe91b12188f887d45.png",
+    "static/media/rickroll.png": "/KohJiaWei.github.io/static/media/rickroll.07ff57a2caa807f8e6cb.png",
+    "static/media/stockmarket.jfif": "/KohJiaWei.github.io/static/media/stockmarket.cd600f66bba56e2a4360.jfif",
+    "static/media/JW Uni v2.pdf": "/KohJiaWei.github.io/static/media/JW Uni v2.f64b7935c1d663588a25.pdf",
+    "static/media/anthonychew.png": "/KohJiaWei.github.io/static/media/anthonychew.23cc15dfef6baf49f685.png",
+    "static/media/ReubenPang.jpg": "/KohJiaWei.github.io/static/media/ReubenPang.20eddcf6418766a1abdd.jpg",
+    "static/media/logo-s.png": "/KohJiaWei.github.io/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "index.html": "/KohJiaWei.github.io/index.html",
+    "main.df6bbd3e.css.map": "/KohJiaWei.github.io/static/css/main.df6bbd3e.css.map",
+    "main.42709eec.js.map": "/KohJiaWei.github.io/static/js/main.42709eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6bbd3e.css",
+    "static/js/main.42709eec.js"
+  ]
+}
